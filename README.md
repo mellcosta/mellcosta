@@ -1,4 +1,4 @@
-# #Frontend Dev 🦄🌈
+# #Frontend Dev | QA 🦄🌈
   
   ##
   <!--Para colocar as redes sociais
