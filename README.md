@@ -38,26 +38,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,figma,git,github,vscode" />
 </p>
 
-<!-- ======================= GITHUB STATS ======================= -->
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mellcosta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&icon_color=F5A9B8&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mellcosta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=C77DFF&text_color=c9d1d9" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mellcosta&theme=radical&hide_border=true&background=0D1117&ring=C77DFF&fire=F5A9B8" />
-</p>
-
 <!-- ======================= CONTRIBUTION SNAKE (atividade animada) ======================= -->
-### 🐍 Atividade recente
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mellcosta/mellcosta/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
-
-> ℹ️ Esta animação da "cobra" precisa de uma GitHub Action para funcionar (instruções mais abaixo).
 
 <!-- ======================= FOOTER ======================= -->
 <p align="center">
